@@ -431,7 +431,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitest/utils@npm:2.0.5, @vitest/utils@npm:^2.0.5":
+"@vitest/utils@npm:2.0.5":
   version: 2.0.5
   resolution: "@vitest/utils@npm:2.0.5"
   dependencies:
@@ -1560,9 +1560,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "test-vitest@workspace:."
   dependencies:
-    "@vitest/utils": "npm:^2.0.5"
-    pathe: "npm:^1.1.2"
-    tinyrainbow: "npm:^1.2.0"
     vitest: "npm:^2.0.5"
   languageName: unknown
   linkType: soft
